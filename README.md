@@ -7,9 +7,9 @@ It implements a simple program acting a parent talking to a kid.
 # Notice:
 The packaged used in this project require specific set up:
 
-package pyswip:
+to use package pyswip:
 1. Downgrade SWI-Prolog to below version 7.0
-2. Add this in terminal:
+2. Add these in terminal:
 
 `export PATH=$PATH:/Applications/SWI-Prolog.app/Contents/swipl/bin/x86_64-darwin15.6.0`
 
